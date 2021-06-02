@@ -1,7 +1,7 @@
 # playing_damas
  ⛀ Jogo de damas, criado para o projeto semestral facultativo.
  
-### Colaboração:
+👥 ### Colaboração:
  
 [Ed Wander](https://github.com/Edy940)
 
