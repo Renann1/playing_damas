@@ -1,4 +1,4 @@
-# playing_damas
+# Damas
  ⛀ Jogo de damas, criado para o projeto semestral facultativo.
  
  ### Colaboração: 👥
